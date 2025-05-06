@@ -34,5 +34,6 @@ Kommentar: endre farger og dobbel sjekk rettskriving
 * font-size
 * Fjernet br added gap/margin
 * prøvde og sette alt sån at det ligger loddrett men det funka ikke det. Prøver mer imorgen.
+* la til buttons fra Index.HTML til Allprocudts
 
 Kommentar: Photoshop Ragnarok bilde, og fjern det hvite. Bruk gap og padding istedet for br
