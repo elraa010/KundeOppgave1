@@ -21,5 +21,18 @@ Idag tenker jeg å fokuserer på hoved siden. Målene er:
 * Skrive feil 
 * Fikse på hvor ting ligger 
 * Og mer mappestruktur.
+
+### Hjemside
 * Fikset #a tagene for å faktisk få dem til å funke 
 * Alt sentrert og fikset størrelse på teksten
+* Fikset skrive feil og feilkoding
+* endret på navnene til bildene, lettere å forstå/finne riktig bilde.
+Kommentar: endre farger og dobbel sjekk rettskriving
+
+### Alle Produkter
+* endret bilde navn
+* font-size
+* Fjernet br added gap/margin
+* prøvde og sette alt sån at det ligger loddrett men det funka ikke det. Prøver mer imorgen.
+
+Kommentar: Photoshop Ragnarok bilde, og fjern det hvite. Bruk gap og padding istedet for br
