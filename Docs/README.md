@@ -21,5 +21,5 @@ Idag tenker jeg å fokuserer på hoved siden. Målene er:
 * Skrive feil 
 * Fikse på hvor ting ligger 
 * Og mer mappestruktur.
-
-
+* Fikset #a tagene for å faktisk få dem til å funke 
+* Alt sentrert og fikset størrelse på teksten
