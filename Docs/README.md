@@ -17,4 +17,9 @@ gikk gjennom koden og so litt på hva som trengs
 
 ## Tirsdag 06.05.2025
 Idag tenker jeg å fokuserer på hoved siden. Målene er:
-Fikse farger, skrive feil, fikse på hvor ting ligger, og mer mappestruktur.
+* Fikse farger
+* Skrive feil 
+* Fikse på hvor ting ligger 
+* Og mer mappestruktur.
+
+
