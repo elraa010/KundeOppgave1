@@ -5,26 +5,40 @@ body {
     margin: auto;
 }
 
-.prod > *  {
-    margin-left: 100px;
+.prod {
     font-family: 'Courier New', Courier, monospace;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
 }
+
+
+.prod1 {
+    display: flex;
+}
+
+.prodimg {
+    width: 50%
+}
+
+.prodtext {
+}
+
+.status
+
 
 .red {
     color: red;
-    font-size: 200%;
     border: 2px solid red;
     text-align: center;
     background-color: lightcoral;
     margin-bottom: -50px;
 }
 
-.prod img {
-    float: left;
-}
 
 h1 {
     color: darkred;
+    font-size: 50px;
 }
 
 h4 {
@@ -51,6 +65,9 @@ img  {
        width: 80;
 
 }
+.herobilde { 
+    width: 80;
+}
 
 h2 {
     color: white;
@@ -62,13 +79,7 @@ h3 {
     font-family: cursive;
 }
 
-/* 
-.prod {
-display: flex;
-justify-content: center;
-align-items: flex-end;
-flex: 1;
- */
+
 
 a {
     background-color: lightcoral;
@@ -86,6 +97,13 @@ a {
     margin: auto;
     text-align: center;
 }
+#links {
+    size: 200%;
+    justify-content: center;
+    margin-top: 2%;
+    text-align: center;
+}
+
 /* }#links {
     background-color: white;
     max-width: 1000px;
