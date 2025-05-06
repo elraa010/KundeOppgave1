@@ -27,6 +27,21 @@ h1 {
     color: darkred;
 }
 
+h4 {
+    font-size: 50px;
+    color: red;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.Velkommen {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+
 /* h4 {
 color: red;
 font-size: 40px;
@@ -66,17 +81,10 @@ a {
 }
 
 #links {
-    background-color: white;
     size: 200%;
-    max-width: 1000px;
-    min-width: 1000px;
-    width: 1000px;
-    height: 100px;
     justify-content: center;
     margin: auto;
     text-align: center;
-    border-radius: 4%;
-    
 }
 /* }#links {
     background-color: white;
@@ -108,3 +116,13 @@ img {
     background-color: lightcoral;
     margin-bottom: -50px;
 }
+
+.Atag {
+    border-radius: 10px;
+    background-color: white;
+    margin-right: 1%;
+    font-size: 18px;
+    padding: 5px
+}  
+
+  
