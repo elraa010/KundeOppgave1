@@ -29,24 +29,6 @@ body {
     display: flex;
 }
 
-
-
-.prod2 {
-    display: flex;
-    justify-content: center;
-    margin-top: 2%;
-    margin-bottom: 2%;
-}
-
-
-
-.status
-
-
-.red {
-
-}
-
 #red {
     color: red;
     font-size: 210%;
@@ -59,6 +41,41 @@ body {
     width: 100px;
     height: 100px;
 }
+
+.prod2 {
+    display: flex;
+    justify-content: left;
+    margin-top: 4%;
+    margin-bottom: 4%;
+}
+
+.prodimg2 {
+    width: 50%;
+    margin-right: 0%;
+    margin-left: 0%;
+}
+
+.prodtext2 {
+    display: flex;
+    justify-content: center;
+
+}
+
+#red2 {
+    color: red;
+    font-size: 210%;
+    border: 2px solid red;
+    text-align: center;
+    background-color: lightcoral;
+    margin-bottom: -50px;
+    color: red;
+    width: 100px;
+    height: 150px;
+    margin-left: 5%;
+}
+
+
+
 
 
 
