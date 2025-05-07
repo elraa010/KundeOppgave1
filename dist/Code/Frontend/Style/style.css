@@ -1,5 +1,5 @@
 body {
-    background-color: rgba(67, 139, 33, 0.815);    
+    background-color:rgba(67, 139, 33, 0.815);    
     font-family:fantasy;
     width: 960px;
     margin: auto;
@@ -78,10 +78,8 @@ body {
 
 
 
-
-
 h1 {
-    color: darkred;
+    color: red;
     font-size: 50px;
 }
 
@@ -112,15 +110,11 @@ h4 {
     margin-bottom: 2%;
 }
 
-/* h4 {
-color: red;
-font-size: 40px;
-} */
-
 img  {
        width: 80;
 
 }
+
 .herobilde { 
     width: 80;
 }
@@ -175,11 +169,7 @@ a {
     border-radius: 4%;
 } */
 
- h1 {
-    color: rgba(250, 38, 38, 0.767);
-    font-size: 100px;
-    font-family:Impact !important;
-}
+ 
 
 img {
     width: 80%;
