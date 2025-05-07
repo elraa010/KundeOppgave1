@@ -60,4 +60,5 @@ Kommentar: Legg til informasjon om GameXChange, og hvordan man kan kontakte dere
 ### Alle Produkter
 * Endret på Velkommen teksten
 * Endret på "Kjøp" knappen
-* jobber med stylen men har blitt stuck
+* fikset God of war ragnarok boksen, mangler bare kjøp boksen.
+* fisket minecraft bokensen, mangler bare kjøp boksen
