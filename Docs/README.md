@@ -6,7 +6,9 @@ Feilskriving
 størrelser
 filstruktur
 dårlig ordning
-Dårlige farge kombinasjoner.
+Dårlige farge kombinasjoner
+ingen orden i kode
+flere kopierte koder
 
 # Dokumentasjon
 
@@ -44,11 +46,15 @@ Generel endring, Fjernet "Kjøp", og skiftet navne til Registrer, der du kan log
 
 ### Hjem
 * Har fjernet "Darkmode" for nå, siden jeg ikke vet hvordan den funker.
+* Endret Tittel
+* endret links
+* Fjernet "Register.html", hadde en kopi
 
 ### Log inn
 * endret navnene på links
 * fikset h1 tekst og mellomrom mellom ting
 * alt sentrert
+* endret tittel
 Kommentar: Kanskje legge til noe mer i nettsiden
 
 ### Kontakt Oss
@@ -62,3 +68,4 @@ Kommentar: Legg til informasjon om GameXChange, og hvordan man kan kontakte dere
 * Endret på "Kjøp" knappen
 * fikset God of war ragnarok boksen, mangler bare kjøp boksen.
 * fisket minecraft bokensen, mangler bare kjøp boksen
+* endret tittel
