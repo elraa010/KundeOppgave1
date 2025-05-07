@@ -37,3 +37,15 @@ Kommentar: endre farger og dobbel sjekk rettskriving
 * la til buttons fra Index.HTML til Allprocudts
 
 Kommentar: Photoshop Ragnarok bilde, og fjern det hvite. Bruk gap og padding istedet for br
+
+## Onsdag 07.05.2025
+Idag tenker jeg å fikse Log inn siden, og se mer på Alle Produkter siden.
+
+### Log inn
+* endret navnene på links
+* fikset h1 tekst og mellomrom mellom ting
+* alt sentrert
+Kommentar: Kanskje legge til noe mer i nettsiden
+
+### Alle Produkter
+
