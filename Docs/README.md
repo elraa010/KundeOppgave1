@@ -40,6 +40,10 @@ Kommentar: Photoshop Ragnarok bilde, og fjern det hvite. Bruk gap og padding ist
 
 ## Onsdag 07.05.2025
 Idag tenker jeg å fikse Log inn siden, og se mer på Alle Produkter siden.
+Generel endring, Fjernet "Kjøp", og skiftet navne til Registrer, der du kan logge inn.
+
+### Hjem
+* Har fjernet "Darkmode" for nå, siden jeg ikke vet hvordan den funker.
 
 ### Log inn
 * endret navnene på links
@@ -47,5 +51,13 @@ Idag tenker jeg å fikse Log inn siden, og se mer på Alle Produkter siden.
 * alt sentrert
 Kommentar: Kanskje legge til noe mer i nettsiden
 
-### Alle Produkter
+### Kontakt Oss
+* Fikset Størrelser og font size
+* Skiftet på "Kontakt GameXChange teksten
+* Endret på "Send" fra text til button.
+Kommentar: Legg til informasjon om GameXChange, og hvordan man kan kontakte dere digitalt.
 
+### Alle Produkter
+* Endret på Velkommen teksten
+* Endret på "Kjøp" knappen
+* jobber med stylen men har blitt stuck

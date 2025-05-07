@@ -15,25 +15,52 @@ body {
 
 .prod1 {
     display: flex;
+    justify-content: center;
+    margin-top: 2%;
+    margin-bottom: 2%;
 }
 
 .prodimg {
-    width: 50%
+    width: 50%;
+    
 }
 
 .prodtext {
+    display: flex;
 }
+
+
+
+.prod2 {
+    display: flex;
+    justify-content: center;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+
 
 .status
 
 
 .red {
+
+}
+
+#red {
     color: red;
+    font-size: 210%;
     border: 2px solid red;
     text-align: center;
     background-color: lightcoral;
     margin-bottom: -50px;
+    color: red;
+    text-align: center;
+    width: 100px;
+    height: 100px;
 }
+
+
 
 
 h1 {
@@ -61,6 +88,11 @@ h4 {
     flex-direction: column;
     margin-bottom: 0%;
 
+}
+
+.kontaktformat {
+    margin-top: 0%;
+    margin-bottom: 2%;
 }
 
 /* h4 {
@@ -103,6 +135,7 @@ a {
     justify-content: center;
     margin-top: 2%;
     text-align: center;
+    margin-bottom: 2%;
 }
 
 .links2 {
@@ -136,14 +169,6 @@ img {
 }
 
 
-#red {
-    color: red;
-    font-size: 210%;
-    border: 1px solid red;
-    text-align: center;
-    background-color: lightcoral;
-    margin-bottom: -50px;
-}
 
 .Atag {
     border-radius: 10px;
