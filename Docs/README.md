@@ -29,7 +29,7 @@ Idag tenker jeg å fokuserer på hoved siden. Målene er:
 * Alt sentrert og fikset størrelse på teksten
 * Fikset skrive feil og feilkoding
 * endret på navnene til bildene, lettere å forstå/finne riktig bilde.
-Kommentar: endre farger og dobbel sjekk rettskriving
+* Kommentar: endre farger og dobbel sjekk rettskriving
 
 ### Alle Produkter
 * endret bilde navn
@@ -37,8 +37,7 @@ Kommentar: endre farger og dobbel sjekk rettskriving
 * Fjernet br added gap/margin
 * prøvde og sette alt sån at det ligger loddrett men det funka ikke det. Prøver mer imorgen.
 * la til buttons fra Index.HTML til Allprocudts
-
-Kommentar: Photoshop Ragnarok bilde, og fjern det hvite. Bruk gap og padding istedet for br
+* Kommentar: Photoshop Ragnarok bilde, og fjern det hvite. Bruk gap og padding istedet for br
 
 ## Onsdag 07.05.2025
 Idag tenker jeg å fikse Log inn siden, og se mer på Alle Produkter siden.
@@ -55,13 +54,13 @@ Generel endring, Fjernet "Kjøp", og skiftet navne til Registrer, der du kan log
 * fikset h1 tekst og mellomrom mellom ting
 * alt sentrert
 * endret tittel
-Kommentar: Kanskje legge til noe mer i nettsiden
+* Kommentar: Kanskje legge til noe mer i nettsiden
 
 ### Kontakt Oss
 * Fikset Størrelser og font size
 * Skiftet på "Kontakt GameXChange teksten
 * Endret på "Send" fra text til button.
-Kommentar: Legg til informasjon om GameXChange, og hvordan man kan kontakte dere digitalt.
+* Kommentar: Legg til informasjon om GameXChange, og hvordan man kan kontakte dere digitalt.
 
 ### Alle Produkter
 * Endret på Velkommen teksten
