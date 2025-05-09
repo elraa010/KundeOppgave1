@@ -5,6 +5,9 @@ body {
     margin: auto;
 }
 
+a {
+    text-decoration: none;
+}
 .prod {
     font-family: 'Courier New', Courier, monospace;
     justify-content: center;
@@ -28,6 +31,11 @@ body {
 .prodtext {
     display: flex;
 }
+
+.hilsen {
+    margin-bottom: 50px;
+}
+
 
 #red {
     color: red;
@@ -110,6 +118,7 @@ h4 {
     margin-bottom: 2%;
 }
 
+
 img  {
        width: 80;
 
@@ -147,6 +156,7 @@ a {
     margin-top: 2%;
     text-align: center;
     margin-bottom: 2%;
+    
 }
 
 .links2 {
