@@ -2,14 +2,14 @@
 
 Hva som er feil:
 
-Feilskriving
-størrelser
-filstruktur
-dårlig ordning
-Dårlige farge kombinasjoner
-ingen orden i kode
-flere kopierte koder
-Navn på filer og bilder
+Feilskriving,
+størrelser,
+filstruktur,
+dårlig ordning,
+Dårlige farge kombinasjoner,
+ingen orden i kode,
+flere kopierte koder,
+Navn på filer og bilder.
 
 # Dokumentasjon
 
@@ -77,7 +77,11 @@ Generel endring, Fjernet "Kjøp", og skiftet navne til Registrer, der du kan log
 
 ## Fredag 09.05.2025
 * Fjeret streken under links
+* Tejnker å endre fargen på Nettsiden
 
 ### Hjem
 * Links under "Skriv en Hilsen"
 * margin mellom hilsen og links
+
+### Registere
+* Lagt til Text, "Bli medlem av GameXChange nå!"
