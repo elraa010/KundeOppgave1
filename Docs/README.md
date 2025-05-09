@@ -77,11 +77,13 @@ Generel endring, Fjernet "Kjøp", og skiftet navne til Registrer, der du kan log
 
 ## Fredag 09.05.2025
 * Fjeret streken under links
-* Tejnker å endre fargen på Nettsiden
+* Tenker å endre fargen på Nettsiden
 
 ### Hjem
 * Links under "Skriv en Hilsen"
 * margin mellom hilsen og links
 
-### Registere
+### Registrer
 * Lagt til Text, "Bli medlem av GameXChange nå!"
+* Lagt til Hero2 bilde
+* Endret classen til hero bilde for å fiske margin
