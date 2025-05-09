@@ -94,7 +94,7 @@ h1 {
 h5 {
     color: red;
     font-size: 60px;
-    margin-top: 4%;
+    margin-top: 2%;
 }
 
 h4 {
@@ -126,6 +126,13 @@ img  {
 
 .herobilde { 
     width: 80;
+    margin-bottom: 20px;
+}
+
+.herobilde2 { 
+    width: 80;
+    margin-top: -5%;
+    margin-bottom: 2%;
 }
 
 h2 {
