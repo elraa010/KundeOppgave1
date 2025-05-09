@@ -9,6 +9,7 @@ dårlig ordning
 Dårlige farge kombinasjoner
 ingen orden i kode
 flere kopierte koder
+Navn på filer og bilder
 
 # Dokumentasjon
 
@@ -68,3 +69,15 @@ Generel endring, Fjernet "Kjøp", og skiftet navne til Registrer, der du kan log
 * fikset God of war ragnarok boksen, mangler bare kjøp boksen.
 * fisket minecraft bokensen, mangler bare kjøp boksen
 * endret tittel
+
+## Torsdag 09.05.2025
+* Lekte litt med "Alle Produkter
+* Endret h4 størrelser
+* prøvde og fikse ting på "Alle Produkter, men ble litt stuck.
+
+## Fredag 09.05.2025
+* Fjeret streken under links
+
+### Hjem
+* Links under "Skriv en Hilsen"
+* margin mellom hilsen og links
